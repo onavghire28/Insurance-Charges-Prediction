@@ -40,15 +40,27 @@ The dataset contains the following features:
 
 
 ## Methodology
-- Reviewed the dataset structure, columns, and data types to identify missing values, inconsistencies, and analysis requirements. 
-- Removed duplicates, handled missing values, corrected formats, and standardized data types to ensure clean and accurate data. 
-- Performed category-wise, customer-wise, and size-wise analysis to identify trends, patterns, and key sales insights. 
-- Prepared cleaned data with proper formatting, calculated fields, and structured tables suitable for Power BI dashboards. 
-- Created interactive dashboards displaying sales KPIs, category performance, customer demographics, and shipping/payment behavior. 
-- Interpreted Power BI visuals and EDA outcomes to highlight major findings and business patterns. 
-- Developed data-driven suggestions to improve sales, optimize inventory, and enhance customer experience. 
-- Compiled all analysis, visuals, and findings into a structured project report for presentation.
-
+1. The insurance dataset was collected and imported into Python. It contains
+customer information such as age, sex, BMI, children, smoker status, region,
+and insurance charges.
+2. EDA was performed using Python libraries like Pandas, Matplotlib, and
+Seaborn. Various statistical analyses and visualizations were created to
+identify patterns and factors affecting insurance charges.
+3. EDA was performed using Python libraries like Pandas, Matplotlib, and
+Seaborn. Various statistical analyses and visualizations were created to
+identify patterns and factors affecting insurance charges.
+4. Categorical features were encoded, BMI categories were created, and
+MinMaxScaler was applied to numerical features. This step prepared the data
+for machine learning model training.
+5. The Linear Regression algorithm was used to train the prediction model. The
+dataset was divided into training and testing sets to build and validate the
+model.
+6. The model was evaluated using R² Score, MAE, MSE, and RMSE metrics.
+After achieving satisfactory performance, the trained model and scaler were
+saved using Pickle.
+7. A Python-based code was developed to accept user inputs such as age, BMI,
+smoker status, and region. The application processes the inputs and predicts
+the estimated insurance charges using the trained model.
 ---
 
 ## Key Insights
