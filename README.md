@@ -64,14 +64,14 @@ the estimated insurance charges using the trained model.
 ---
 
 ## Model Workflow
-1.Data Collection
-2.Data Preprocessing
-3.Feature Encoding
-4.Feature Scaling
-5.Train-Test Split
-6.Model Training
-7.Model Evaluation
-8.Prediction Generation
+1. Data Collection
+2. Data Preprocessing
+3. Feature Encoding
+4. Feature Scaling
+5. Train-Test Split
+6. Model Training
+7. Model Evaluation
+8. Prediction Generation
 
 ---
 ## Model Evaluation Metrics
@@ -94,26 +94,20 @@ The Power BI dashboard provides:
 ---
 
 ## Project Report 
-- [Project Report](https://github.com/onavghire28/Customer_Shopping_Behavior_Analysis/blob/main/Project_report.pdf)
-- [Project PPT](https://github.com/onavghire28/Customer_Shopping_Behavior_Analysis/blob/main/Project_PPT.pdf)
-- [Dashboard](https://github.com/onavghire28/Customer_Shopping_Behavior_Analysis/blob/main/Dashboard%20View.pdf)
+- [Project Report](https://github.com/onavghire28/Insurance-Charges-Prediction/blob/main/Report.pdf)
+
+  ---
+
+  ## Dashboard Image
+- [Dashboard](https://github.com/onavghire28/Insurance-Charges-Prediction/blob/main/Dashboard_Image.png)
 
 
 ---
 
-## Recommendations
-- Promote high-selling clothing SKUs: Increase stock and marketing for top performing clothing items to capture demand and avoid stockouts. 
-- Target male customer segment: Tailor promotions and email campaigns to the more active male shoppers, while creating specific strategies to increase female engagement. 
-- Revise outerwear assortment: Review pricing and styles for outerwear; consider discounts or bundling to boost demand. 
-- Optimize size inventory: Stock more of size M and reduce overstock of S and XL; use size-level demand forecasting to balance inventory. 
-- Leverage free shipping: Highlight free-shipping thresholds in marketing to increase average order value (AOV). 
-- Monitor payment mix: Since payment modes contribute similar shares, ensure frictionless checkout across all modes and monitor for fraud/anomaly.
-
----
 
 ## Author
 **Om Navghire**  
-Data Analytics Enthusiast | Excel | SQL | Power BI | Python
+Data Analytics Enthusiast | Machine Learning | Excel | SQL | Power BI | Python
 
 ---
 
