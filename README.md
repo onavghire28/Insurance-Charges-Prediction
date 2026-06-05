@@ -63,20 +63,33 @@ smoker status, and region. The application processes the inputs and predicts
 the estimated insurance charges using the trained model.
 ---
 
+## Model Workflow
+1.Data Collection
+2.Data Preprocessing
+3.Feature Encoding
+4.Feature Scaling
+5.Train-Test Split
+6.Model Training
+7.Model Evaluation
+8.Prediction Generation
+
+---
 ## Model Evaluation Metrics
 The model was evaluated using R² Score
 
 **R² Score** : 0.71
 
+---
+
 ## Power BI Dashboard
 The Power BI dashboard provides:
 
-**KPI** - Average Charges, Maximum charges, Minimum Charges, Most Charge Region
-Age-wise Insurance Charges Analysis
-BMI Distribution Analysis
-Smoker vs Non-Smoker Cost Comparison
-Region-wise Insurance Charges
-Customer Demographics Insights
+- **KPI** - Average Charges, Maximum charges, Minimum Charges, Most Charge Region
+- Age-wise Insurance Charges Analysis
+- BMI Distribution Analysis
+- Smoker vs Non-Smoker Cost Comparison
+- Region-wise Insurance Charges
+- Customer Demographics Insights
 
 ---
 
