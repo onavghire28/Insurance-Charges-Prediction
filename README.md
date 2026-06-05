@@ -96,12 +96,12 @@ The Power BI dashboard provides:
 ## User Input
 A Python application was developed to allow users to enter:
 
--**Age**
--**Gender**
--**BMI**
--**Number of Children**
--**Smoking Status**
--**Region**
+- **Age**
+- **Gender**
+- **BMI**
+- **Number of Children**
+- **Smoking Status**
+- **Region**
 
 The trained Linear Regression model then predicts the estimated insurance charge.
 
