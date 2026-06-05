@@ -1,28 +1,32 @@
 # Insurance-Charges-Prediction
 
 ## Project Title
-**Customer_Shopping_Behavior_Analysis (Excel | Python | Power BI)**
+**Insurance Charges Prediction and Analysis(Python | Machine Learning | Power BI)**
 
 ---
 
 ## Problem Statement
-Despite having a high volume of daily sales, the business struggles to understand which products drive profit, how customer demographics affect sales, and what 
-factors lead to sales fluctuations. This project aims to analyze shopping sales data to uncover actionable insights that can improve marketing strategies, inventory planning, and overall business performance.
-
+Insurance companies need to estimate medical insurance charges based on customer characteristics such as age, BMI, smoking habits, and family size. The goal of this project is to analyze the factors affecting insurance costs and build a predictive model for estimating insurance charges.
 
 ---
 ## Overview
-This project focuses on analyzing shopping sales data to identify key business insights that can help improve sales performance and customer satisfaction. Basic data cleaning and preprocessing were performed using Excel to handle missing values, correct data formats, and prepare the dataset for analysis. Exploratory Data Analysis (EDA) was conducted to understand sales patterns, product performance, customer preferences, and size-wise demand. Power BI was used to build interactive dashboards that visually highlight sales trends, best-selling categories, customer activity patterns, and payment behaviors. 
+This project focuses on analyzing insurance customer data and predicting medical insurance charges using Linear Regression. The project combines Data Analytics, Machine Learning, and Business Intelligence techniques to uncover insights from the dataset and estimate insurance charges based on customer information.
 
-The study provides clear insights into category-wise performance, customer demographics, and operational metrics, enabling data-driven recommendations for enhancing product strategies, inventory planning, and customer experience.
+
 
 ---
 
-##  Objectives
-- To analyze overall sales performance.
-- To identify top-performing and low-performing products.
-- To study customer purchasing behavior.
-- To understand revenue drivers.
+##  Dataset Information
+The dataset contains the following features:
+
+Feature	              Description
+Age	                  Age of the customer
+Sex	                  Gender of the customer
+BMI	                  Body Mass Index
+Children	            Number of dependents covered by insurance
+Smoker	              Smoking status
+Region	              Residential region
+Charges	              Medical insurance charges (Target Variable)
 
 
 
