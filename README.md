@@ -93,10 +93,23 @@ The Power BI dashboard provides:
 
 ---
 
+## User Input
+A Python application was developed to allow users to enter:
+
+-**Age**
+-**Gender**
+-**BMI**
+-**Number of Children**
+-**Smoking Status**
+-**Region**
+
+The trained Linear Regression model then predicts the estimated insurance charge.
+
+---
 ## Project Report 
 - [Project Report](https://github.com/onavghire28/Insurance-Charges-Prediction/blob/main/Report.pdf)
 
-  ---
+---
 
 ## Dashboard Image
 - [Dashboard](https://github.com/onavghire28/Insurance-Charges-Prediction/blob/main/Dashboard_Image.png)
@@ -115,4 +128,5 @@ Data Analytics Enthusiast | Machine Learning | Excel | SQL | Power BI | Python
 - **GitHub:** https://github.com/onavghire28  
 - **LinkedIn:** https://www.linkedin.com/in/om-navghire-520712289
 - **Email:** navghireom@gmail.com
+---
 ⭐ If you found this project useful, consider giving it a star on GitHub.
