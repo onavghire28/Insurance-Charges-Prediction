@@ -16,7 +16,7 @@ This project focuses on analyzing insurance customer data and predicting medical
 
 ---
 
-##  Dataset Information
+## Dataset Information
 The dataset contains the following features:
 
 - **Age** -                Age of the customer
@@ -115,3 +115,4 @@ Data Analytics Enthusiast | Machine Learning | Excel | SQL | Power BI | Python
 - **GitHub:** https://github.com/onavghire28  
 - **LinkedIn:** https://www.linkedin.com/in/om-navghire-520712289
 - **Email:** navghireom@gmail.com
+⭐ If you found this project useful, consider giving it a star on GitHub.
