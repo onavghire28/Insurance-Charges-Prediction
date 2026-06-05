@@ -19,13 +19,13 @@ This project focuses on analyzing insurance customer data and predicting medical
 ##  Dataset Information
 The dataset contains the following features:
 
-- **Age**	                  Age of the customer
-- **Sex**	                  Gender of the customer
-- **BMI**	                  Body Mass Index
-- **Children**	            Number of dependents covered by insurance
-- **Smoker**	              Smoking status
-- **Region**	              Residential region
-- **Charges**	              Medical insurance charges (Target Variable)
+- **Age** -                Age of the customer
+- **Sex**	-                 Gender of the customer
+- **BMI**	-                  Body Mass Index
+- **Children**	-            Number of dependents covered by insurance
+- **Smoker** -	              Smoking status
+- **Region** -	              Residential region
+- **Charges** -	              Medical insurance charges (Target Variable)
 
 
 
