@@ -32,9 +32,9 @@ The dataset contains the following features:
 ---
 
 ## Tools & Technologies
-- **Excel** – Data cleaning, preprocessing, and EDA  
-- **Python** – To perform Exploratory Data Analysis 
-- **Power BI** – Data modeling, visualization, and dashboard creation  
+- **Python** – Data cleaning, preprocessing, and EDA  
+- **Machine Learning** – Model Training, Model Testing and Model Evaluation
+- **Power BI** – Data visualization and dashboard creation  
 
 ---
 
