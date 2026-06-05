@@ -63,14 +63,20 @@ smoker status, and region. The application processes the inputs and predicts
 the estimated insurance charges using the trained model.
 ---
 
-## Key Insights
-- Total Sale - ~233K, Avg Rating – 3.7. 
-- Clothing - Most Sale Category. 
-- Male are more Active in shopping as compare to Female. 
-- Outwear is less Sale Category as compare to others. 
-- M is most Sale and S & XL are Less sale Size respectively. 
-- Free Shipping Mostly Preferred by Customers. 
-- All Payment mode on an avg contribute 16.9% in Total Sale.
+## Model Evaluation Metrics
+The model was evaluated using R² Score
+
+**R² Score** : 0.71
+
+## Power BI Dashboard
+The Power BI dashboard provides:
+
+**KPI** - Average Charges, Maximum charges, Minimum Charges, Most Charge Region
+Age-wise Insurance Charges Analysis
+BMI Distribution Analysis
+Smoker vs Non-Smoker Cost Comparison
+Region-wise Insurance Charges
+Customer Demographics Insights
 
 ---
 
