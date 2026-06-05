@@ -1,6 +1,6 @@
 # Insurance-Charges-Prediction
 
-## Project Title
+## 📌 Project Title
 **Insurance Charges Prediction and Analysis(Python | Machine Learning | Power BI)**
 
 ---
@@ -98,7 +98,7 @@ The Power BI dashboard provides:
 
   ---
 
-  ## Dashboard Image
+## Dashboard Image
 - [Dashboard](https://github.com/onavghire28/Insurance-Charges-Prediction/blob/main/Dashboard_Image.png)
 
 
