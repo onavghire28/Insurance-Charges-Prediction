@@ -119,7 +119,7 @@ The trained Linear Regression model then predicts the estimated insurance charge
 
 
 ## Author
-**Om Navghire**  
+**Om A Navghire**  
 Data Analytics Enthusiast | Machine Learning | Excel | SQL | Power BI | Python
 
 ---
